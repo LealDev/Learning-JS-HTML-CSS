@@ -18,3 +18,9 @@ document.addEventListener('click', event =>{
 
     console.log("Click!")
 })
+ 
+// date
+let agora = new Date();
+console.log(agora.getFullYear());
+
+console.log(agora.toLocaleDateString("pt-BR"));
