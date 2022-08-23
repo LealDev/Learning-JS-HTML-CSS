@@ -6,7 +6,7 @@ class celular{
 
     ligar() {
      console.log("Recebendo ligação");
-        return "atendendo"   
+        return "atendendo!!"   
     }
 }
 
